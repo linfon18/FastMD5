@@ -4,13 +4,11 @@
 
 **这是一个基于C#的程序，作用是 创建一个右键菜单，并可以右键选中任意文件，快速计算并查看，同时复制 MD5**
 <br />
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/038d613c-56ce-4ef1-bca7-3add91ec37f3">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">"FastMD5</h3>
+<br />
+![e0c7cc414a1e96625166314d2bc00f44](https://github.com/user-attachments/assets/958d538a-30d9-40be-b43f-64e424605686)
+<br />
+<br />
+  <h3 align="center">"FastMD5"</h3>
   <p align="center">
     基于C#,提供快速计算并查看MD5的功能
     <br />
