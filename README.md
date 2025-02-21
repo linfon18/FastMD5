@@ -3,11 +3,10 @@
 # FastMD5
 
 **这是一个基于C#的程序，作用是 创建一个右键菜单，并可以右键选中任意文件，快速计算并查看，同时复制 MD5**
-![e0c7cc414a1e96625166314d2bc00f44](https://github.com/user-attachments/assets/038d613c-56ce-4ef1-bca7-3add91ec37f3)
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
+  <a href="https://github.com/user-attachments/assets/038d613c-56ce-4ef1-bca7-3add91ec37f3">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
