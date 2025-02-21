@@ -3,17 +3,7 @@
 # FastMD5
 
 **这是一个基于C#的程序，作用是 创建一个右键菜单，并可以右键选中任意文件，快速计算并查看，同时复制 MD5**
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
+![e0c7cc414a1e96625166314d2bc00f44](https://github.com/user-attachments/assets/038d613c-56ce-4ef1-bca7-3add91ec37f3)
 <br />
 
 <p align="center">
@@ -28,13 +18,10 @@
     <a href="https://mczlf.loft.games/"><strong>探索MCZLF »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/shaojintian/Best_README_template/issues](https://github.com/linfon18/FastMD5/issues)">报告Bug</a>
+    <a href="[https://github.com/linfon18/FastMD5/issues](https://github.com/linfon18/FastMD5/issues)">报告Bug</a>
   </p>
 
 </p>
-
-
- 本篇README.md原来自https://github.com/shaojintian/Best_README_template/blob/master/README.md
  
 ## 目录
 
@@ -77,7 +64,8 @@
 逻辑分析：如果user目录下的配置文件已存在，试图再次以不同的名称进行创建菜单项时，会直接报错，此问题在后续版本（如果有）不会解决，请不要提交issue_(虽然也没人提交)
 当然，如果你觉得我做的不错，欢迎点击**star**来鼓励我
 
-
+### 后记/PS
+本篇README.md原来自https://github.com/shaojintian/Best_README_template/blob/master/README.md
 
 
 
